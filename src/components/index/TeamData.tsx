@@ -214,6 +214,12 @@ const roles = {
 }
 
 const _members: { [key: string]: Member } = {
+   aarush: {
+    photo: aarush,
+    name: "Aarush Kute",
+    titles: [roles.webdev],
+  },
+  
   aadit: {
     photo: aadit,
     name: "Aadit Ambadkar",
