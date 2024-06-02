@@ -791,6 +791,8 @@ const restOfMembers: Member[] = [
   _members.nikhil,
   _members.ryan,
   _members.dustin,
+  _members.aarush,
+
   // members.egor,
   // members.ramit,
   _members.jesse,
